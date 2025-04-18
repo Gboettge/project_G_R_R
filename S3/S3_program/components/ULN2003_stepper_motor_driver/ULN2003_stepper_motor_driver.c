@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include "ULN2003_stepper_motor_driver.h"
 
-
-void app_main(void)
+void func(void)
 {
 
 }
